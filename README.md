@@ -10,8 +10,6 @@
 6. [Rentable Shelves as NFTs](#rentable-shelves-as-nfts)
 7. [Legal and Regulatory Considerations](#legal-and-regulatory-considerations)
 8. [Future Roadmap](#future-roadmap)
-9. [Risks and Challenges](#risks-and-challenges)
-10. [Appendices](#appendices)
 
 ## Overview
 
